@@ -11,13 +11,13 @@ Dataset dapat ditemukan di UCI Machine Learning Repository pada tautan berikut:
 
 Dataset ini mencakup berbagai fitur dari kurma Ajwa dan Medjool, dengan tujuan untuk mengklasifikasikan mereka secara akurat. Fitur-fitur tersebut meliputi:
 
-- Tanggal
-- Waktu
-- Suhu
-- Kelembaban
-- pH
-- Kadar air
-- Fitur relevan lainnya
+- Panjang Buah
+- Panjang Biji Buah
+- Diameter Buah
+- Berat Buah
+- Kalori
+- Warna
+- Jenis
 
 ### File
 
